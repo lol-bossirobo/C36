@@ -1,2 +1,1 @@
-# synchronousBallMovement
-Ball moving synchronously
+Created a Log-in for players
